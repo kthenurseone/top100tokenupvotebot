@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/cU36O_cMqDM" target="_blank"><img src="https://github.com/kthenurseone/top100tokenupvotebot/blob/main/coinsniper_creator.gif?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/cU36O_cMqDM" target="_blank"><img src="https://github.com/kthenurseone/top100tokenupvotebot/blob/main/video.gif?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
