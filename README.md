@@ -39,7 +39,6 @@ I will help to install the program.
 ## Images
 ![Dextool_Bot](https://github.com/kthenurseone/top100tokenupvotebot/blob/main/1.png?raw=true)
 ![Dextool_Bot](https://github.com/kthenurseone/top100tokenupvotebot/blob/main/2.png?raw=true)
-![Dextool_Bot](https://github.com/kthenurseone/top100tokenupvotebot/blob/main/3.png?raw=true)
 
 
 
